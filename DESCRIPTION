@@ -1,0 +1,12 @@
+Package: MSmodification
+Type: Package
+Title: Unified Mass-spectrometry/MS-imaging data analysis in R
+Version: 0.1
+Author: Houyu Zhang
+Maintainer: Houyu Zhang <houyuzhang@stu.pku.edu.cn>
+Description: This package contain fucntions for MSI data analysis
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse, readxl, tools, MetaboAnalystR, pls, janitor, ggrepel, openxlsx, ggpubr
+RoxygenNote: 7.1.2
